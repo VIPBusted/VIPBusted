@@ -1,4 +1,4 @@
-<h1 align="center">Hi <p align="left"> , <p align="left"> <img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png"  /> </p>   I'm VIPBusted</h1>
+<h1 align="center">Hi <p  I'm VIPBusted</h1>  align="left"> , <p align="left"> <img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png"  /> </p>
 <h3 align="center">A Developer from Germany</h3>
 
 
@@ -23,3 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipbusted&" alt="vipbusted" /></p>
 
+
+<img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png"  /> </p>
+<img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png"  /> </p>
