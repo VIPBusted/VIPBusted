@@ -1,7 +1,5 @@
 <h1 align="center">Hi <p   align="left"> , <p  I'm VIPBusted</h1>
 <h3 align="center">A Developer from Germany</h3>
-<img src="https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE.png" </p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipbusted&label=Profile%20views&color=0e75b6&style=flat" alt="vipbusted"  </p>
 
